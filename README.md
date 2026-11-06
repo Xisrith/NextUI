@@ -8,7 +8,7 @@ If you want to use NextUI for your own handheld, get it from [Love Retro](https:
 
 In the interest of full transparency: this fork was developed using AI tooling, specifically Claude Code.
 
-I've been a professional software developer since 2020 and AI agents are just part of my workflow. I have never developed C or C++ professionally (though I do like to use C for hobby projects) so while I've reviewed every code change, I am limited by my lack of experience, esp for C-specific things like safe memory management. (If you care, my primary languages are C# for backend/desktop and TypeScript for frontend.)
+I've been a professional software developer since 2020 and AI agents are just part of my workflow. I have never developed C or C++ professionally (though I do like to use C for hobby projects) so while I've reviewed every code change, I am limited by my lack of experience, esp for C-specific things like safe memory management. (My primary languages are C# for backend/desktop and TypeScript for frontend.)
 
 I have done my best to keep PRs and commits small for reviewability should anyone want to cherry pick features out of this fork.
 
